@@ -1,0 +1,1 @@
+const orange = document.querySelector('body');
