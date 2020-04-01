@@ -1,4 +1,2 @@
 const orange = document.querySelector('body');
-
-const aaaa;
-const bbbb;
+const grape = document.querySelector('div');
